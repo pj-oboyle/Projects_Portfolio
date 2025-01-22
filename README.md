@@ -6,7 +6,7 @@ This collection highlights a range of projects I’ve developed to demonstrate m
 
 ## Portfolio Projects
 
-### **1. Insurance Quote Calculator**
+### **1. [Insurance Quote Calculator](https://github.com/pj-oboyle/Insurance_Quote_Calculator)**
 A refactored Java-based application that calculates insurance quotes based on user age and accident history. This project emphasizes clean coding practices, modular design, and comprehensive unit testing with JUnit. Features include robust input validation, dynamic surcharge calculations, and edge case handling. A test suite ensures reliability and maintainability across all functionalities.
 
 ---
