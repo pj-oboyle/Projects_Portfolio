@@ -21,7 +21,7 @@ A PHP and MySQL-driven web application offering a seamless shopping experience f
 
 ---
 
-### **4. [Ionic Country, Weather & News Reader](https://github.com/pj-oboyle/Regional_News_Weather_App)**
+### **4. [Country, Weather & News Reader](https://github.com/pj-oboyle/Regional_News_Weather_App)**
 An Ionic mobile application that fetches real-time country information, weather updates, and news for user-specified locations. Features include efficient data storage, robust error handling, and a responsive user interface. The app integrates multiple APIs (e.g., restcountries.com, Weatherbit, and NewsAPI) to deliver dynamic content.
 
 ---
